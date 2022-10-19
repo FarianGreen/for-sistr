@@ -1,0 +1,64 @@
+.page-nine {
+  background-color: #6425cb;
+  padding-bottom: 70px;
+}
+.card {
+  background: #ffffff;
+  box-shadow: 0px 15px 30px rgba(255, 255, 255, 0.04);
+  border-radius: 15px;
+  flex: 0 1 25%;
+}
+.block-info-seven{
+padding-top: 70px;
+}
+.name-card {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 30px;
+  color: #f4ab00;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.card-price {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  color: #5b25b3;
+  text-align: center;
+  margin-top: 45px;
+  display: flex;
+  justify-content: center;
+}
+.card_item {
+  list-style: none;
+}
+.card_item li i {
+  padding-right: 15px;
+}
+.cash {
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 36px;
+  color: #5b25b3;
+  transform: translate(0px, -30px);
+}
+.card_item li {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  color: #604b83;
+  margin-bottom: 15px;
+}
+.cards-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 60px;
+}
+.flash {
+  display: flex;
+  justify-content: center;
+  margin: 71px 0 51px 0;
+}

@@ -1,0 +1,54 @@
+.page-five {
+  background-color: #6425cb;
+}
+
+.five-text-h {
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 56px;
+  color: #ffffff;
+  margin-bottom: 25px;
+}
+.five-text-p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 34px;
+  color: #ffffff;
+  margin-bottom: 40px;
+}
+.square-text {
+  margin: 25px 0 15px 0;
+}
+.square-text-h {
+  margin-bottom: 15px;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 30px;
+  color: #2c1258;
+}
+.square-text-p {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 28px;
+  color: #604b83;
+}
+.square {
+  background: #ffffff;
+  box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  padding: 25px;
+  flex: 0 1 31%;
+  margin-bottom: 30px;
+}
+.five-block {
+  flex: 1 0 35%;
+}
+.four-squares {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+  justify-content: space-evenly;
+}
+.trans {
+  transform: translate(1px, -25px);
+}

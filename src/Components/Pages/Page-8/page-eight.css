@@ -1,0 +1,43 @@
+.eight-h {
+  margin-top: 80px;
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 56px;
+  text-align: center;
+  color: #2c1258;
+}
+.eight-p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 34px;
+  text-align: center;
+  color: #604b83;
+  margin-top: 15px;
+}
+.person {
+  display: flex;
+  align-items: center;
+  flex:1 0 30%
+}
+.person-info {
+  margin-left: 24px;
+}
+.person-name {
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 30px;
+  color: #2c1258;
+}
+.skill {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #604b83;
+}
+.team-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 60px 140px 150px 140px;
+  justify-content: space-around;
+  gap: 50px;
+}

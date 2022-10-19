@@ -1,0 +1,31 @@
+.slider-info {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+}
+.slider-h {
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 56px;
+  text-align: center;
+  letter-spacing: 1px;
+  color: #2c1258;
+  margin-bottom: 20px;
+}
+.slider-p {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 43px;
+  text-align: center;
+  color: #604b83;
+  margin: 24px 0 20px 0;
+}
+.hr {
+  margin: 170px 140px 0 140px;
+}
+.ten-img {
+  display: flex;
+  justify-content: space-between;
+  margin: 126px 140px 85px 140px;
+}

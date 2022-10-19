@@ -1,0 +1,80 @@
+.start-page {
+  background-color: #6425cb;
+}
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 140px 20px 140px;
+  padding-top: 20px;
+}
+.brands img{
+  margin-right:15px;
+}
+.h-phone {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-right: 20px;
+}
+.phone {
+  margin-right: 12px;
+}
+.hnumber {
+  color: #fff;
+}
+.contactus{
+  display: flex;
+}
+.h-phone i,
+.h-email i {
+  padding: 10px;
+}
+.navbar {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  justify-content: space-around;
+  background: #ffffff;
+  border-radius: 10px;
+  height: 100px;
+  margin: 0 140px 0 140px;
+}
+.navbar ul li a {
+  margin: 10px;
+  text-decoration: none;
+  color: #202020;
+}
+.left {
+  color: #fff;
+}
+.yelow {
+  color: #f4ab00;
+}
+.info-container {
+  margin: 70px 140px 0 140px;
+  display: flex;
+  justify-content: space-between;
+}
+.left-h {
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 70px;
+}
+.left-p {
+  margin: 40px 0 25px 0;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 34px;
+}
+.right-square {
+  width: 40px;
+  height: 40px;
+  background-color: #f4ab00;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  transform: translate(800px, -80px);
+}
+

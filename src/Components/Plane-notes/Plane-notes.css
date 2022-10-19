@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    padding-top:55px;
+    padding-bottom: 30px;
+}
+.right{
+    margin-left: 25px;
+}
+.h-right{
+    margin-bottom: 10px;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 30px;
+    color: #2C1258;
+}
+.p-right{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 28px;
+    color: #604B83;
+}
+.paperplane{
+    width: 86px;
+    height:86px ;
+}

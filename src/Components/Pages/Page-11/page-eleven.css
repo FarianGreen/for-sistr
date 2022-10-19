@@ -1,0 +1,40 @@
+.page-eleven {
+  background-color: #e5d8fa;
+  padding: 90px 0 90px 0;
+}
+.friend-info {
+  background-color: #fff;
+}
+.friend-p {
+  text-align: center;
+  padding: 28px 0 22px 0;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  text-transform: uppercase;
+  color: #604b83;
+}
+.friend-h {
+  text-align: center;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 34px;
+  text-align: center;
+  color: #2c1258;
+}
+.friends-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 50px;
+}
+.friend-info {
+  display: flex;
+  flex-direction: column;
+  height: 192px;
+}
+.friend-btn{
+text-align: center;
+margin-top: 60px;
+}

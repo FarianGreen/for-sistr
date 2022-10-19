@@ -1,0 +1,44 @@
+.page-six {
+  background-color: #e5e5e5;
+}
+.page-h {
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 56px;
+  text-align: center;
+  color: #2c1258;
+  margin-top: 70px;
+}
+.seo-square {
+  background-color: #ffffff;
+  box-shadow: 0px 20px 60px rgba(0, 0, 0, 0.05);
+  height: 110px;
+  width: 165px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.seo-square:hover {
+  background-color: #f4ab00;
+}
+.seo-content {
+  margin: 30px 140px 0 140px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.seo-text {
+  margin-top: 15px;
+}
+.trafic{
+    margin: 25px 0 40px 0;
+}
+.imgse{
+    margin-top: 35px;
+}
+.seo-yellow-square {
+  background-color: #f4ab00;
+  width: 25px;
+  height: 25px;
+  transform: translate(0px, 20px);
+}

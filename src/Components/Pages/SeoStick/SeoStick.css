@@ -1,0 +1,20 @@
+.stick-container {
+  display: flex;
+  justify-content: space-around;
+  width: 1160px;
+  height: 518px;
+  border-radius: 10px;
+  align-items: center;
+  border: 2px solid grey;
+  background-color: #fff;
+  margin: 0 auto;
+  transform: translate(0px, -20px);
+}
+.left-block {
+  flex: 0 1 32%;
+}
+.right-block {
+  display: flex;
+  flex-direction: column;
+  flex: 0 1 33%;
+}

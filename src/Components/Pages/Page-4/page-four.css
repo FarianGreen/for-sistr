@@ -1,0 +1,26 @@
+.satisfaction {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #f6f1ff;
+  border-radius: 10px;
+  width:253px;
+  height:114px;
+  margin: 25px 20px 0 0;
+}
+.left-square-container {
+  display: flex;
+  
+}
+.number {
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 36px;
+  color: #2c1258;
+}
+.text {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 28px;
+  color: #2c1258;
+}
